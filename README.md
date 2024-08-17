@@ -126,9 +126,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrajdeep&show_icons=true&locale=en&layout=compact&theme=radical" alt="coderrajdeep" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderrajdeep&show_icons=true&locale=en&theme=radical" alt="coderrajdeep" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderrajdeep&show_icons=true&locale=en&theme=radical" alt="coderrajdeep" /> -->
+<!-- </p> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderrajdeep&theme=radical" alt="coderrajdeep" />
