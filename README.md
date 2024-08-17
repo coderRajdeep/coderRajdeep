@@ -5,14 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/coderrajdeep?tab=followers">
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/coderrajdeep?tab=followers">
     <img src="https://img.shields.io/github/followers/coderrajdeep?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Badge" />
   </a>
   <a href="https://github.com/coderrajdeep?tab=repositories">
     <img src="https://img.shields.io/github/stars/coderrajdeep?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Badge" />
-  </a>
-</p>
+  </a> -->
+<!-- </p>  -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
