@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **rajdeepdas4083@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dpGbx9BKedUqVsiEmoOdbma1D-TI3jLp/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jisgDIn37ESFtub5gqAbpAFzYz1Pl-jA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
